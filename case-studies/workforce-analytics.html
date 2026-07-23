@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Workforce &amp; Compensation Analytics | Raunak Singh</title>
+<meta name="description" content="Full EDA, clustering and regression methodology behind a Business Analytics study of 913,384 job seeker records.">
+<link rel="icon" type="image/svg+xml" href="../assets/img/favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600;8..60,700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body>
+
+<header class="navbar case-navbar" id="navbar">
+  <div class="container">
+    <a href="../index.html" class="brand">Raunak <span>Singh</span></a>
+    <a href="../index.html#case-studies" class="btn btn-outline btn-sm back-link">← All Case Studies</a>
+  </div>
+</header>
+
+<section class="case-hero">
+  <div class="container">
+    <span class="case-tag">Data Analytics</span>
+    <h1>Workforce &amp; Compensation Analytics — 913K Job Seeker Records</h1>
+    <p class="case-hero-summary">A Business Analytics study applying Exploratory Data Analysis, K-Means clustering and regression modeling to a 913,384-record dataset to explain — and stress-test — salary expectations.</p>
+    <div class="meta-chip-row">
+      <div class="meta-chip"><span class="meta-label">Type</span><span class="meta-value">Business Analytics Study</span></div>
+      <div class="meta-chip"><span class="meta-label">Dataset</span><span class="meta-value">913,384 Records · 18 Variables</span></div>
+      <div class="meta-chip"><span class="meta-label">Techniques</span><span class="meta-value">EDA · Clustering · Regression</span></div>
+      <div class="meta-chip"><span class="meta-label">Stack</span><span class="meta-value">Python (Pandas, Scikit-learn)</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container detail-container">
+
+    <div class="detail-block reveal">
+      <span class="section-eyebrow">Objective</span>
+      <p>Apply Business Analytics techniques to a large-scale job-seeker dataset to identify the factors influencing expected salary, segment job seekers into meaningful clusters, and evaluate how well experience, education and skills predict salary expectations — moving from intuition-based to evidence-based workforce strategy.</p>
+    </div>
+
+    <div class="detail-block reveal">
+      <span class="section-eyebrow">Methodology &amp; Process</span>
+      <p class="detail-intro">The study was structured around three sequential analytical components, each building on the last.</p>
+      <div class="process-flow-vertical">
+        <div class="process-step">
+          <span class="process-num">01</span>
+          <h4>Data Cleaning &amp; Preprocessing</h4>
+          <p>Assessed missing values (833,000+ non-null salary records, 904,000+ non-null experience records), standardized mixed-format salary/experience fields into numeric values, and log-transformed both expected and current salary to correct heavy right-skew before modeling.</p>
+        </div>
+        <div class="process-step">
+          <span class="process-num">02</span>
+          <h4>Exploratory Data Analysis</h4>
+          <p>Examined distributions of salary and experience, ran correlation analysis across numerical variables, and profiled education, specialization, skills and geography against expected salary. Outliers were detected via IQR, z-score and Isolation Forest methods and retained (with transformation) rather than discarded, since they often represent genuine senior-professional profiles.</p>
+        </div>
+        <div class="process-step">
+          <span class="process-num">03</span>
+          <h4>Clustering (K-Means)</h4>
+          <p>Selected experience, education rank, number of skills, and log-transformed current/expected salary as clustering variables, standardized them, and used the Elbow Method to choose K. The elbow curve showed a clear inflection at K = 2, so the final model used two clusters.</p>
+        </div>
+        <div class="process-step">
+          <span class="process-num">04</span>
+          <h4>Regression Modeling</h4>
+          <p>Estimated both a Multiple Linear Regression (experience, education rank, number of skills → expected salary) and a Simple Linear Regression (experience only), deliberately excluding current salary as a predictor to avoid a near-tautological fit.</p>
+        </div>
+        <div class="process-step">
+          <span class="process-num">05</span>
+          <h4>Synthesis Across Methods</h4>
+          <p>Read the clustering and regression results together — the weak cluster separation and the low regression R² were treated as two independent signals pointing to the same underlying conclusion about traditional predictors.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="detail-block reveal">
+      <span class="section-eyebrow">Assumptions &amp; Scope</span>
+      <ul class="assumption-list">
+        <li>Current salary was deliberately excluded from the regression models despite its near-perfect correlation with expected salary, to avoid tautological rather than explanatory prediction.</li>
+        <li>Both regression models assume linear relationships between predictors and salary — a real limitation the report itself flags, since salary determination may be non-linear in practice.</li>
+        <li>Key explanatory variables — specific job role, industry-specific wage structures, company size, certifications, and individual negotiation behavior — were not available in the dataset and are explicitly named as omitted variables.</li>
+        <li>Expected salary may reflect aspirational rather than market-aligned values, which the report notes as a potential source of noise in the dependent variable itself.</li>
+        <li>Salary and experience variables were log-transformed specifically for clustering to control skew — findings on cluster separation should be read in that transformed space, not raw rupee terms.</li>
+      </ul>
+    </div>
+
+    <div class="detail-block reveal">
+      <span class="section-eyebrow">Key Findings</span>
+
+      <div class="chart-grid">
+        <div class="chart-row">
+          <canvas id="workforceSalaryChart"></canvas>
+          <p class="chart-caption">Expected salary: median ₹650,000 vs. mean ₹969,451 — a wide gap signalling strong right-skew.</p>
+        </div>
+        <div class="chart-row">
+          <canvas id="workforceExperienceChart"></canvas>
+          <p class="chart-caption">Work experience: median 0.75 years vs. mean 2.39 years — a young, early-career-heavy sample.</p>
+        </div>
+      </div>
+      <div class="chart-row">
+        <canvas id="workforceR2Chart"></canvas>
+        <p class="chart-caption">The regression model explains only ~5% of the variance in expected salary (Training R² 0.049, Testing R² 0.050).</p>
+      </div>
+
+      <ul>
+        <li>Current salary is the strongest anchor for expected salary (near-perfect correlation); experience shows only a moderate positive correlation; education rank and skill count are weakly correlated.</li>
+        <li>K-Means clustering (K=2, chosen via the Elbow Method) produced only subtle differentiation between clusters — job seekers do not naturally segregate into sharply distinct groups on experience, education, skills or salary alone.</li>
+        <li>In the Multiple Linear Regression, each additional year of experience is associated with ~₹29,200 higher expected salary; the Simple Linear Regression (experience only) puts this at ~₹27,500 — both directionally consistent but explaining little of the total variance.</li>
+        <li>The Mean Absolute Error of the regression exceeds ₹530,000 on both training and testing data — consistent, but large relative to the ₹650,000 median salary itself.</li>
+        <li>The number-of-skills coefficient was negative, suggesting skill relevance and specialization matter more than simply listing more skills.</li>
+      </ul>
+    </div>
+
+    <div class="detail-block reveal">
+      <span class="section-eyebrow">Key Takeaways</span>
+      <ul class="takeaway-list">
+        <li>Salary expectations among job seekers exhibit significant inequality and high dispersion.</li>
+        <li>Work experience positively influences expected salary, but its explanatory power is limited.</li>
+        <li>Education level and skill count alone are weak predictors of salary expectations.</li>
+        <li>Job seekers do not form strongly differentiated clusters based on traditional attributes.</li>
+        <li>Salary determination is shaped by complex, contextual factors beyond basic demographics — advanced, non-linear models and richer datasets are needed for effective prediction.</li>
+      </ul>
+    </div>
+
+    <div class="detail-block reveal">
+      <span class="section-eyebrow">Tools &amp; Frameworks</span>
+      <div class="case-tools">
+        <span>Python</span><span>Pandas</span><span>Scikit-learn</span><span>Exploratory Data Analysis</span><span>K-Means Clustering</span><span>Linear Regression</span>
+      </div>
+    </div>
+
+    <div class="detail-block reveal case-downloads">
+      <a class="case-download" href="../assets/docs/Workforce_Compensation_Analytics_Report.docx" download>↓ Full Report (Word)</a>
+    </div>
+
+  </div>
+</section>
+
+<nav class="case-prevnext">
+  <div class="container">
+    <a class="prevnext-link prev" href="hul.html">
+      <span class="pn-label">← Previous</span>
+      <span class="pn-title">Hindustan Unilever — 5-Year Financial Blueprint</span>
+    </a>
+    <a class="prevnext-link next" href="quick-clean.html">
+      <span class="pn-label">Next →</span>
+      <span class="pn-title">Quick Clean — Founder's Office Analyst Internship</span>
+    </a>
+  </div>
+</nav>
+
+<div class="container">
+  <div class="footer" style="margin-top:0;">
+    <span>&copy; 2026 Raunak Singh · PGDM 2025–27, Great Lakes Institute of Management, Gurgaon</span>
+    <a href="../index.html">Back to Portfolio ↑</a>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+<script src="../assets/js/main.js"></script>
+<script src="../assets/js/case-charts.js"></script>
+<script>document.addEventListener('DOMContentLoaded', initWorkforceCharts);</script>
+</body>
+</html>

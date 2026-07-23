@@ -1,0 +1,870 @@
+--- Raunak Singh_CV.pdf ---
+
+
+
+--- 1774745664850.pdf ---
+
+GREAT LAKES INSTITUTE OF MANAGEMENT
+Gurgaon  |  PGDM 2025–27
+EQUITY DUE DILIGENCE REPORT
+Britannia Industries Limited
+NSE: BRITANNIA  |  BSE: 500825  |  FMCG — Consumer Staples
+Prepared by:
+Raunak
+PGDM 2025–27  |  Great Lakes Institute of Management, Gurgaon
+Report Date: 29 March 2026
+Market Data as of: Week ending 27 March 2026
+© 2026 Raunak | Great Lakes Institute of Management, Gurgaon. All rights reserved.
+This report is prepared solely for academic purposes. It does not constitute investment advice.
+1. Executive Summary
+This report presents a comprehensive equity due diligence assessment of Britannia Industries  
+Limited (BIL) based on the latest available market data as of 29 March 2026. The analysis  
+incorporates the company's most recent quarterly results (Q3 FY26, ending December 2025), live  
+stock  market  data,  analyst  estimates,  and  updated  strategic  developments  including  a  new  
+Managing Director, a major management rejig, and the rollout of the Bel SA cheese joint venture.
+Britannia Industries remains India's dominant biscuit manufacturer with a 34% market share in  
+organised biscuits, a market capitalisation of approximately 1.32–1.36 lakh crore, and a current ₹  
+share price of approximately 5,500 (NSE: BRITANNIA, as of 27 March 2026). Q3 FY26 results were ₹  
+broadly positive: consolidated net profit rose 16.9% year-on-year to 680 crore, revenue grew 9.5% ₹  
+YoY to 4,885 crore, and gross margins expanded a remarkable 450 basis points to 43.3%. ₹  
+However, the stock trades at a demanding P/E of approximately 55–61x, which many analysts flag as  
+stretched relative to single-digit to low double-digit earnings growth.
+The company is navigating a pivotal leadership transition. Rakshit Hargave, a seasoned FMCG  
+executive formerly of Birla Opus and Beiersdorf (NIVEA), assumed charge as MD & CEO effective 15  
+December 2025. A broader C-suite rejig — including new appointments in Sales, Marketing, and  
+Dairy  —  signals  Britannia's  intent  to  accelerate  execution  across  brand  building,  distribution  
+expansion, and category diversification. Analyst consensus is moderately bullish, with 25 analysts  
+recommending Buy against 2 Sell ratings, and an average 12-month price target of 6,766. ₹
+Key  risks  include  stretched  valuations,  commodity  price  sensitivity,  intensifying  competition  
+(particularly from ITC's Sunfeast), and execution uncertainty in new categories such as dairy and  
+cheese. This report provides a detailed, data-driven view of the company's financial trajectory,  
+competitive positioning, market sentiment, and investment outlook as of Q1 2026.
+2. Live Market Snapshot (as of 27–29 March 2026)
+The following table captures Britannia's key market metrics derived from live exchange data and  
+brokerage sources as of the final trading week of March 2026. The stock closed the week ending 27  
+March 2026 at 5,500.40, declining 2.06% week-on-week, underperforming the Sensex which fell ₹  
+1.46% over the same period. The underperformance followed a MarketsMOJO downgrade to Sell on  
+24 March 2026, citing deteriorating technical indicators and expensive valuation metrics.
+Market Metric Value (as of 27–29 Mar 2026)
+Current Share Price (NSE) 5,500 – 5,537 (week close range)₹ ₹
+52-Week High 6,336₹
+52-Week Low 4,605.05₹
+Market Capitalisation 1.32 – 1.36 lakh crore (~ 1.36T)₹ ₹
+P/E Ratio (TTM) 55.9–61x (range across sources)
+P/B Ratio 30.18–41.61x
+EPS (TTM) 90.45–100.26₹
+EV/CE Ratio 26.6x (elevated vs. peers)
+Promoter Holding (Dec 2025) 50.6% (zero pledging)
+FII Holding 14.88% (declining trend)
+DII / Mutual Fund Holding 10.59% (increasing trend)
+1-Year Return +16.44% (vs. Nifty FMCG +3.33%)
+6-Month Return -5.2%
+Next Earnings Date 1 May 2026 (Q4 FY26)
+Consensus Analyst Rating BUY (25 Buy, 2 Sell)
+Average 12M Price Target 6,766 (High: 8,250 | Low: 5,250)₹ ₹ ₹
+Nomura Target (post Q3) 7,275₹
+Motilal Oswal Target 7,150₹
+Technical picture: The stock remains below its 50-day and 200-day moving averages as of late  
+March 2026. Weekly and monthly MACD and Bollinger Band readings are bearish or mildly bearish,  
+though the daily setup turned mildly bullish mid-week before facing fresh selling pressure on Friday.  
+Some chartists on TradingView note a forming rounding bottom on the weekly chart that could signal  
+a recovery if broader FMCG sentiment improves. The benchmark Nifty FMCG index added 1.4% in  
+the past month and stands at ~54,863 at end-March.
+3. Company Overview & Governance
+3.1 Corporate Profile
+Britannia Industries Limited, founded in 1892 and incorporated as a public limited company in 1918,  
+is one of India's oldest and largest fast-moving consumer goods (FMCG) companies. Headquartered  
+operationally in Bengaluru (Whitefield) and registered in Kolkata, it is the food-processing arm of the  
+Wadia Group — one of India's oldest conglomerates, with interests spanning FMCG, real estate,  
+textiles, aerospace, and chemicals.
+The company's product scope spans bakery products (biscuits, bread, cakes, rusk, croissants,  
+wafers) and dairy (milk, cheese, yoghurt, butter, flavoured beverages). It sells under over 15 brand  
+names and exports to approximately 80 countries, making it a genuine Indian multinational consumer  
+goods company.
+Parameter Details
+Listed Exchanges NSE (BRITANNIA), BSE (500825)
+Registered Office Kolkata, West Bengal
+Operational HQ Prestige Shantiniketan, Whitefield, Bengaluru
+Chairman Nusli N. Wadia (Wadia Group)
+MD & CEO (from Dec 2025) Rakshit Hargave
+CFO N. Venkataraman (outgoing MD)
+Year Founded / Incorporated 1892 / 1918
+Employees (Mar 2026) ~23,730
+Global Presence ~80 countries
+Wadia Group Stake 50.6% (Promoter holding, zero pledged)
+3.2 Leadership Transition: Key Development
+A critical recent development is the appointment of Rakshit Hargave as MD & CEO from 15  
+December 2025, replacing long-serving executive N. Venkataraman. Hargave brings deep consumer  
+brand experience — as former CEO of Birla Opus (paints), head of Beiersdorf's NIVEA business  
+across  India,  Africa,  ASEAN  and  ANZ,  and  COO  at  Lakme  Lever  (HUL).  He  also  played  a  
+foundational role in Domino's 30-minute delivery model through Jubilant FoodWorks.
+Simultaneously, Britannia executed a broad C-suite rejig effective December 2025 – February 2026:  
+Abhishek Sinha became Chief Sales Transformation Officer, Subhashis Basu was elevated to Chief  
+Business Officer (Dairy), and Puneet Das was appointed Chief Marketing Officer. Brokerages see  
+this reshuffle as a positive catalyst, particularly for brand building and distribution acceleration.
+4. Financial Performance: FY25 to Q3 FY26
+4.1 Full Year FY2025 Performance
+For the full fiscal year FY2025 (April 2024 – March 2025), Britannia reported consolidated revenues  
+of 17,943 crore, representing 7% year-on-year growth. Net profit for FY25 stood at 2,179 crore, up₹ ₹  
+~2% YoY. The relatively muted profit growth compared to revenue growth reflected commodity cost  
+pressures through the year. The board declared a total annual dividend of 100 per share for FY25, a ₹  
+25% increase from FY24's 80, reflecting strong underlying cash generation. ₹
+4.2 Latest Quarter: Q3 FY26 (Oct–Dec 2025) — Strong Rebound
+Q3 FY26 marks Britannia's strongest quarterly performance in recent memory. Consolidated net  
+profit rose 16.9% YoY to 680 crore (vs. 582 crore in Q3 FY25), exceeding analyst estimates. ₹ ₹  
+Revenue reached an all-time quarterly high of 4,885–4,970 crore (up 9.5% YoY). EBITDA grew ₹  
+15.6% YoY to 977 crore, with EBITDA margin expanding to 19.5% from 18.4% a year earlier. Gross ₹  
+margins expanded a notable 450 basis points YoY to 43.3%, driven by stable commodity prices and  
+efficient cost management.
+October 2025 was impacted by GST-led trade disruptions (following rate rationalisation on biscuits),  
+but demand fully normalised in November–December, with biscuit sales growing approximately 12%  
+in those two months. Management attributed the recovery to sustained media investment, portfolio  
+innovations including '50-50 Dipped' and 'Veg' cake variants, and the launch of 'Doodh' Marie Gold.
+Financial Metric Q3 FY25Q2 FY26Q3 FY26YoY Change
+Revenue (crore) 4,463₹4,752₹4,885₹+9.5%
+Net Profit (crore) 582₹654₹680₹+16.9%
+EBITDA (crore) 845₹~ 940₹977₹+15.6%
+EBITDA Margin 18.4%~19.3%19.5%+110 bps
+Gross Margin ~38.8%~41.5%43.3%+450 bps
+Profit Before Tax (crore) 778₹884₹919₹+18.1%
+Raw Material Cost (crore) 2,629₹~ 2,700₹2,663₹+1.3% YoY
+4.3 Nine-Month FY26 Scorecard (Apr–Dec 2025)
+For the nine months ended 31 December 2025, Britannia's consolidated revenue reached 14,172 ₹ 
+crore (up 7.7% YoY) and net profit was 1,857 crore (up 14.7% YoY). Profit growth meaningfully ₹  
+outpaced revenue growth, evidence of structural margin expansion. The company is on track for its  
+next quarterly earnings release on 1 May 2026 (Q4 FY26), with analysts estimating Q4 EPS of  
+approximately 29.04 per share. ₹
+4.4 Balance Sheet Highlights
+As of March 2025, shareholder funds stood at 4,355.72 crore, backed by reserves and surplus of ₹  
+4,331.63 crore. Long-term debt declined significantly to 712.94 crore from 904.72 crore the₹ ₹ ₹  
+previous year, indicating active deleveraging. Return on Capital Employed (ROCE) stands at an  
+industry-leading 59–60%, reflecting Britannia's exceptional asset efficiency and pricing power.
+5. Competitive Landscape
+5.1 Biscuit Market Share (Organised Segment)
+Company Est. Market 
+ShareKey Brands Positioning
+Britannia Industries ~34%Good Day, Marie Gold, 
+Tiger, NutriChoiceQuality + Scale Leader
+Parle Products ~30%Parle-G, Monaco, 
+KrackjackMass-market Price Leader
+ITC (Sunfeast) ~14%Sunfeast Marie, Dark 
+Fantasy, WowzersConglomerate-backed 
+Challenger
+Mondelez India ~6%Oreo, Bournvita Premium / Chocolate
+Others / Regional ~16%Various Fragmented
+5.2 Active Competitive Developments
+The competitive battle between Britannia and ITC has escalated into legal terrain. In early 2026, ITC  
+formally accused Britannia of trade dress infringement in the packaging of its cheese-flavoured  
+biscuit, claiming that the black-orange-yellow packaging of its Sunfeast Wowzers product constitutes  
+an original copyright-protected artistic work. The case underlines how aggressively ITC is contesting  
+Britannia's positioning in premium biscuit segments.
+On pricing dynamics: following GST rate rationalisation on biscuits, some national brands remained  
+at 4.5 and 9 price points rather than reverting to 5/ 10. Nomura estimates that price parity will₹ ₹ ₹ ₹  
+normalise across players by Q4 FY26, which should accelerate volume growth to high single digits  
+and reduce competitive distortion. Britannia's Low-Unit-Pack (LUP) portfolio, constituting 60–65% of  
+revenues, is especially sensitive to these dynamics.
+In dairy, the primary competitive pressure comes from Amul (GCMMF) and Nestlé India, who  
+dominate cheese and value-added dairy. The Bel SA JV, backed by the French group's global  
+cheese expertise, is designed to give Britannia a credible technological foundation in this category.
+6. Valuation Analysis
+Britannia's current valuation is the subject of considerable debate among analysts. While the  
+company's  quality  credentials  (ROCE  ~60%,  zero  promoter  pledging,  brand  strength,  market  
+leadership) justify a premium to FMCG peers, the current P/E of 55–61x appears stretched given  
+earnings growth in the low double digits.
+Valuation Metric Current Level Commentary
+P/E Ratio (TTM) 55.9–61x High vs. peer FMCG avg of 40–45x
+P/B Ratio 30–42x Elevated; reflects capital-light model
+EV/CE Ratio 26.6x Flagged as expensive by MarketsMOJO
+PEG Ratio ~7.99x Well above ideal 1–2x range
+Dividend Yield (FY25) ~1.4% Based on 75 div at ~ 5,500 price ₹ ₹
+Analyst Avg. Target 6,766₹ ~23% upside from 5,500 ₹
+Nomura Target 7,275₹ ~32% upside; Buy rating
+Motilal Oswal Target 7,150₹ ~30% upside; Buy, 12% rev CAGR FY26–28
+The central bull case rests on the expectation that: (a) new management will accelerate volume and  
+revenue growth beyond current single-digit rates; (b) the dairy and cheese categories will generate  
+incremental, margin-accretive revenue; and (c) rural distribution investment will drive sustained  
+volume growth in lower-tier markets. Nomura projects an 11% EPS CAGR over FY26–28.
+The bear case centres on the PEG ratio of ~8x, FII selling pressure (stake fell from 16.46% to 14.88%  
+between December 2024 and December 2025), and the risk that new management may invest  
+heavily in brand and distribution, compressing near-term margins. Technical indicators remain  
+bearish on weekly and monthly timeframes, signalling that a re-rating may require several strong  
+quarters of results.
+7. Risk Analysis
+7.1 Commodity & Input Cost Risk
+Despite Q3 FY26 gross margin expansion, commodity risks remain material. Key inputs — wheat,  
+palm oil, sugar, and cocoa — are globally traded and subject to weather, geopolitical, and supply-
+chain shocks. The benign wheat environment ahead of the March 2026 harvest season is providing  
+temporary relief, but any reversal could pressure margins rapidly. Cocoa prices surged ~70% YoY in  
+2024–25, and though conditions have stabilised, structural supply deficits in West Africa remain a  
+long-term concern for chocolate-based products.
+7.2 Valuation & Multiple Contraction Risk
+At 55–61x earnings, Britannia is priced for considerable growth expectations. If Q4 FY26 or FY27  
+earnings disappoint — due to demand weakness, pricing pressure, or elevated spend on brand  
+building — a de-rating is plausible. FII selling is already a visible trend, and should domestic mutual  
+funds begin trimming (having accumulated sharply), supply-demand dynamics in the stock could turn  
+unfavourable.
+7.3 Competitive Intensity & Pricing Pressure
+ITC's Sunfeast platform is well-funded and aggressive. The GST-related price disruption in Q1–Q2  
+FY26 demonstrated the vulnerability of the biscuit category to competitive price behaviour. Should  
+competitors choose to maintain lower price points at the expense of profitability, Britannia faces a  
+choice between protecting market share (at the cost of margin) or protecting margin (at the risk of  
+volume loss).
+7.4 Management Transition Execution Risk
+The arrival of a new MD & CEO (Rakshit Hargave) alongside a broad leadership rejig introduces  
+transition risk. While brokerage consensus views the appointments positively, any strategic missteps  
+or culture changes during the transition could create near-term operational disruptions. Investors will  
+closely watch Hargave's first full year of results (FY27) for evidence of strategic continuity or pivot.
+7.5 Dairy Category Execution Risk
+The  cheese  and  dairy  ambition  is  well-articulated  but  operationally  unproven  at  scale.  The  
+Maharashtra cheese plant (Bel SA JV, opened October 2024) is still in early commercial ramp-up.  
+Competing  with  Amul's  cooperative  pricing  advantages  and  Nestlé's  global  R&D  in  dairy  is  
+structurally challenging. Near-term margin contributions from dairy may be limited.
+7.6 Regulatory Risk
+India's FSSAI has been progressively tightening food safety, labelling, and health claim regulations.  
+Any mandated reformulation, front-of-pack labelling requirements, or reclassification of product  
+categories under GST could increase compliance costs or impact brand communication.
+8. Strategic Outlook & Growth Drivers
+8.1 New MD & Fresh Strategic Priorities
+Rakshit Hargave's background in brand-led consumer companies (NIVEA, Domino's, Birla Opus)  
+suggests Britannia's strategic focus under his leadership will centre on brand elevation, channel  
+innovation, and category expansion — consistent with the company's articulated 'Total Foods  
+Company' vision. His experience with quick-service restaurant supply chains (Jubilant FoodWorks)  
+could also be valuable as Britannia expands its foodservice and out-of-home distribution.
+8.2 Rural Market Penetration
+Rural India represents the highest-growth opportunity for packaged food, and Britannia has been  
+investing in direct distribution infrastructure. Rural FMCG growth has consistently outpaced urban  
+markets, supported by government rural income schemes and rising aspirations. The Tiger brand  
+(fortified, affordable) is the primary vehicle for deepening rural penetration. Nomura models high  
+single-digit volume growth in FY27 as rural distribution matures.
+8.3 GST Rate Rationalisation — Structural Tailwind
+The GST rate rationalisation on biscuits, while disruptive in the short run (Q1–Q2 FY26), is expected  
+to settle into a structural positive. Once price parity normalises across players (expected Q4 FY26),  
+Britannia's Low-Unit-Pack portfolio — a key driver of entry-level consumption — should benefit from  
+dual price-point reset, with both 5 and 10 packs offering higher grammage to consumers. ₹ ₹
+8.4 Dairy & Cheese Category Ramp-Up
+The Maharashtra cheese manufacturing plant, opened in October 2024 through the Bel SA joint  
+venture, is being positioned as the cornerstone of Britannia's premium dairy ambitions. The facility  
+combines Bel Group's French cheese-making technology with Britannia's distribution strength.  
+Commercial ramp-up is expected through FY27, with cheese potentially contributing meaningfully to  
+dairy revenues within 2–3 years. Subhashis Basu's appointment as Chief Business Officer (Dairy)  
+signals dedicated leadership focus on this segment.
+8.5 Premiumisation & Product Innovation
+Launches such as '50-50 Dipped' (chocolate-coated premium variant), 'Veg' cake variants, 'Doodh'  
+Marie Gold, and the Treat Croissant line are targeted at the growing urban consumer appetite for  
+indulgent, differentiated snacks. The Good Day, Bourbon, and NutriChoice platforms each have  
+strong premiumisation potential. Puneet Das as the new CMO is expected to reinvigorate consumer-
+facing brand communication.
+8.6 Digital & Operational Transformation
+Britannia's partnership with Accenture for digital transformation — encompassing supply chain  
+analytics, demand forecasting, and automation — is expected to reduce waste and improve margin  
+visibility. AI-powered consumer engagement tools, including the NutriPlus health scoring app, reflect  
+Britannia's  intent  to  build  direct-to-consumer  relationships  and  leverage  health  and  wellness  
+positioning for the NutriChoice franchise.
+9. ESG & Corporate Responsibility
+9.1 Environmental
+Britannia's  sustainability  vision  is  anchored  in  four  pillars:  minimising  environmental  footprint,  
+responsible sourcing, food safety and quality, and community nutrition. The company is investing in  
+renewable energy at manufacturing sites and advanced analytics to track and reduce emissions.  
+Focused ESG spending aligns with its cost-optimisation agenda, ensuring that sustainability is not  
+just ethical but commercially rational.
+9.2 Social
+Britannia has built a meaningful social presence through the NutriChoice NutriPlus app (personalised  
+health tracking), the Marie Gold 'HerStore' digital marketplace for women entrepreneurs (over 2,500+  
+products  and  services  listed),  and  nutrition  programs  targeting  malnutrition  in  marginalised  
+communities. Kincentric Best Employer recognition for five consecutive years (2019–2024), with a  
+Top 10 ranking among all Indian companies in 2024, reflects strong talent practices.
+9.3 Governance
+The Wadia Group's 50.6% promoter stake with zero pledging is a best-in-class governance indicator  
+in the Indian listed company context. The board includes independent directors with strong academic  
+and public-sector credentials. Britannia complies with all SEBI LODR (Listing Obligations and  
+Disclosure Requirements) obligations. The absence of any significant related-party transaction  
+controversies in recent years adds to governance credibility.
+10. SWOT Summary
+DimensionKey Findings
+Strengths34% biscuit market leadership; iconic brand portfolio; 130+ year heritage; 5M+ 
+outlet reach; ROCE ~60%; zero promoter pledging; record Q3 FY26 margins; new 
+high-calibre leadership team
+WeaknessesRevenue concentration in biscuits (80%+); elevated P/E (55–61x); FII selling trend;  
+dairy still nascent; management transition risk; urban FMCG volume sensitivity
+OpportunitiesRural market penetration; GST normalisation tailwind; dairy/cheese category build-
+out; premiumisation (Good Day, Bourbon, 50-50 Dipped); digital D2C; international  
+expansion; health & wellness (NutriChoice)
+ThreatsCommodity volatility (wheat, cocoa, palm oil); ITC's aggressive Sunfeast 
+expansion and IP litigation; de-rating risk at current valuations; new MD strategic 
+pivot uncertainty; FSSAI regulatory tightening; Amul and Nestlé in dairy
+11. Conclusion & Due Diligence Assessment
+Britannia Industries Limited enters Q4 FY26 with meaningful operational momentum. Q3 FY26  
+delivered record quarterly revenues, a 450 basis point gross margin expansion, and 17% profit  
+growth — figures that affirm the company's structural resilience despite a disruptive macro and  
+competitive  environment.  The  incoming  leadership  under  Rakshit  Hargave  has  been  greeted  
+positively by the market and brokerage community, who view the C-suite refresh as a catalyst for  
+faster execution across brand building, distribution, and category diversification.
+From a market perspective, however, the current price of ~ 5,500 and P/E of ~58x presents a ₹  
+nuanced picture. Analyst consensus is constructive (25 Buy vs. 2 Sell), with Nomura and Motilal  
+Oswal setting targets of 7,150–7,275, implying 30–32% upside. But the technical setup is mixed: ₹  
+the stock is below its 50-day and 200-day moving averages, FIIs have reduced their stake by ~158  
+basis points over five quarters, and the MarketsMOJO downgrade to Sell in late March 2026 reflects  
+near-term caution. Any meaningful re-rating likely requires sustained double-digit earnings growth  
+across 2–3 consecutive quarters.
+For long-term strategic investors, Britannia's fundamentals remain compelling: sector leadership,  
+capital-light business model, exceptional ROCE, zero debt-stress, consistent dividends, and a  
+professional management team now with fresh FMCG talent at the helm. The dairy opportunity, while  
+nascent, represents a credible adjacency, and the GST tailwind could accelerate volume growth  
+through FY27.
+The primary due diligence concern is valuation — not business quality. Investors entering at current  
+prices  are  pricing  in  a  significant  improvement  in  growth  trajectory  that  has  yet  to  be  fully  
+demonstrated under the new leadership. A position build-up strategy tied to quarterly earnings  
+milestones or a price correction to the 4,800–5,000 range (where P/E moderates to ~48–50x) would ₹  
+present a more attractive risk-reward profile.
+— End of Report —
+© 2026 Raunak  |  Great Lakes Institute of Management, Gurgaon  |  PGDM 2025–27
+All rights reserved. Reproduction, distribution, or transmission of this report in any form without the express written consent of the author  is strictly prohibited.
+This document is prepared solely for academic purposes at GLIM, Gurgaon and does not constitute financial, investment, or legal  advice.
+Market data sourced from NSE, BSE, Tickertape, Investing.com, Business Standard, and MarketsMOJO as of 27–29 March 2026.
+
+--- SIP Report ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+“From Laundry Room to Boardroom: Financial Performance 
+Evaluation, Knowledge Centre Development, and Marriott Portfolio 
+Intelligence at Quick Clean”  
+ 
+Submitted in partial fulfilment of the requirements of the Post Graduate Diploma in Management  
+Great Lakes Institute of Management, Gurgaon  
+ 
+Name: Raunak Singh 
+     P2511056 
+     2025-2026 
+ 
+ 
+Company Guide: Ms. Riddhi Raghuvanshi 
+Organisation: Quick Clean Laundry Systems 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mentor: Prof. Smita Mazumdar 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+                                                                                                                                       
+2 
+  
+ 
+ 
+ 
+ 
+GREAT LAKES INSTITUTE OF MANAGEMENT, GURGAON  
+Post Graduate Diploma in Management | PGDM 2025-27  
+SUMMER INTERNSHIP PROJECT REPORT  
+PROJECT TITLE  
+From Laundry Room to Boardroom: Financial Performance 
+Evaluation, Knowledge Centre Development, and Marriott Portfolio 
+Intelligence at Quick Clean  
+ 
+ 
+COMPANY DETAILS  
+Company Name  
+Quick Clean Private Limited (Quick Clean 
+Laundry Solutions)  
+Industry / Sector  
+On-Premise Laundry & Linen Management 
+Hospitality and Healthcare  
+Location 
+Gurugram, Haryana  
+Company Guide Name & Designation  
+Ms. Riddhi Raghuvanshi, Founder's Office 
+Analyst FACULTY MENTOR  
+Faculty Mentor Name  
+Ms. Smita Mazumdar  
+Designation  
+Faculty Guide  
+Department  
+Great Lakes Institute of Management, Gurgaon  
+Date of Submission  
+18th June 2026  
+Submitted in partial fulfilment of the requirements of the Post Graduate Diploma in Management  
+Great Lakes Institute of Management, Gurgaon  
+ SUBMITTED BY  
+Student Name  
+Raunak Singh  
+Roll Number  
+P2511056  Batch / Section  
+PGDM 2025–27  
+Specialisation / Domain  
+Finance 
+Email Address  
+ raunak.pgdm27g@greatlakes.edu.in  Contact Number  
+ +91 9334318989  
+ 
+
+                                                                                                                                       
+3 
+  
+ACKNOWLEDGEMENT 
+ 
+I would like to express my sincere gratitude to everyone at Quick Clean Laundry Solutions (Quick 
+Clean Private Limited) who made this Summer Internship Project, undertaken from 1st April 2026 to 
+15th June 2026, a valuable learning experience and a meaningful contribution to the organisation. 
+I am deeply thankful to Mr. Anshul Gupta, Founder and CEO of Quick Clean, for his invaluable 
+guidance, insightful feedback, and continuous encouragement throughout the project. His strategic 
+perspective and involvement in key project reviews significantly enriched my learning experience. 
+I extend my heartfelt gratitude to my Reporting Mentor, Ms. Riddhi Raghuvanshi, Founder's Office 
+Analyst, for her constant support, patient guidance, and constructive feedback throughout the 
+internship. Her emphasis on analytical rigour, clarity, and business relevance greatly enhanced both 
+my technical and professional skills. 
+I am grateful to my assigned buddy, Ms. Tanisha Rikhi, for her support during the initial stages of the 
+internship and her valuable inputs during the development of the Knowledge Centre. I also thank Mr. 
+Chirag and the Analytics team for their technical guidance, Mr. Anand for his strategic insights, the 
+Sales, Operations, and Finance teams for sharing valuable data and business knowledge, and Ms. Neeti 
+Kalra, Head of HR, for ensuring a smooth onboarding experience. 
+My sincere thanks to my Faculty Guide, Ms. Smita Mazumdar, for her academic guidance, 
+encouragement, and valuable feedback throughout the internship, which helped me maintain the 
+academic standards expected of a PGDM project. 
+Finally, I express my gratitude to the Great Lakes Institute of Management, Gurgaon, for providing 
+me with this opportunity, and to everyone who supported me during this journey. Their guidance and 
+encouragement helped transform data into meaningful business insights and made this internship a 
+truly enriching experience. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                       
+4 
+  
+CERTIFICATE OF ORIGINALITY AND AUTHENTICITY  
+ 
+I, Raunak Singh, hereby declare that the Summer Internship Project Report entitled “From Laundry 
+Room to Boardroom: Financial Performance Evaluation, Knowledge Centre Development, and 
+Marriott Portfolio Intelligence at Quick Clean”, prepared under the guidance of Ms. Smita 
+Mazumdar and submitted as part of the Summer Internship Project requirement of the PGDM 2025-
+27 programme, is original and authentic. All sources of data, literature, and third-party information 
+have been duly acknowledged. This report has neither been previously submitted to any organisation 
+or university, nor has it been published elsewhere in any form. 
+ 
+Raunak Singh 
+Roll No.: P2511056 
+PGDM 2025-27, Great Lakes Institute of Management, Gurgaon 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                       
+5 
+  
+CERTIFICATE OF COMPLETION 
+ 
+ 
+ 
+ 
+
+                                                                                                                                       
+6 
+  
+CERTIFICATE 
+ 
+It is certified that Raunak Singh, a PGDM student at Great Lakes Institute of Management, Gurgaon 
+has undergone a Summer Internship at Quick Clean Laundry Systems from 1st April to 15th June.  
+  
+His/ her project titled “ From Laundry Room to Boardroom: Financial Performance Evaluation, 
+Knowledge Centre Development, and Marriott Portfolio Intelligence at Quick Clean ” has been 
+completed to our satisfaction and the present report is a bona fide  
+account of the same. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Ms.Riddhi Raghuvanshi                                                                Prof. Smita Mazumdar 
+Founder’s Office Analyst                                                              Professor- Finance 
+Quick Clean Laundry Systems                                                     Great Lakes Institute of Management 
+Date: 15th June 2026                                                                     Gurgaon 
+                                                                                        Date: 27th June 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+                                                                                                                                       
+7 
+  
+TABLE OF CONTENTS  
+ 
+Topic Page 
+No. 
+EXECUTIVE SUMMARY  12 
+CHAPTER 1: ORGANISATION & INDUSTRY OVERVIEW  13 
+1.1 About Quick Clean Laundry Solutions  14 
+1.2 The On -Premise Laundry Industry in India  15 
+1.3 Details of the Company  16 
+1.4 Company Culture and Structure  16 
+1.5 Business Model  18 
+1.6 Company Analysis: SWOT  19 
+1.7 Industry Analysis: Porter's Five Forces  20 
+1.8 Client Segmentation Observed During the Internship  23 
+CHAPTER 2: PROJECT CONTEXT & OBJECTIVES  24 
+2.1 Project 1: Financial Performance Evaluation, Case Study Documentation 
+& Knowledge Centre  25 
+2.2 Project 2 : Marriott India Portfolio Brand Intelligence Dashboard  27 
+2.3 Project 1 and Project 2 at a Glance  28 
+CHAPTER 3: LITERATURE REVIEW & CHALLENGES  30 
+3.1 Introduction and Research Context  31 
+3.2 Capital Expenditure Efficiency in Asset -Intensive Service Industries  31 
+3.3 Site-Level P&L Analysis and Profitability Decomposition  33 
+3.4 Operational Efficiency Metrics in Commercial Laundry  34 
+3.5 The BOO Financial Model: Structure, Returns, and Payback Analysis  35 
+3.6 Performance Measurement Systems and Multi-Site Benchmarking 
+Dashboards  36 
+3.7 Gaps in Existing Literature, the Project's Contribution, and Theoretical 
+Framework  37 
+3.8 Challenges Encountered in Translating the Literature into Practice at 
+Quick Clean  38 
+CHAPTER 4: MY ROLES & OBJECTIVES  40 
+4.1 Project 1: Financial Performance Evaluation, Case Study Documentation 
+& Knowledge Centre  41 
+4.2 Project 2 : Marriott India Portfolio Brand Intelligence Dashboard  42 
+CHAPTER 5: TOOLS & TECHNOLOGIES USED  44 
+                                                                                                                                       
+8 
+  
+Topic Page 
+No. 
+5.1 Microsoft Excel  45 
+5.2 Python  45 
+5.3 Flask & Jinja2  46 
+5.4 HTML, CSS & JavaScript  46 
+5.5 GitHub  47 
+5.6 Streamlit  47 
+5.7 Vercel  47 
+5.8 Internal AI Knowledge Assistant  47 
+5.9 Sustainability / CO ₂ Emissions Calculator  48 
+5.10 Brand / Strategic Intelligence Report Generator  48 
+5.11 Summary: Tools Mapped to Deliverables  48 
+5.12 Learning Curve and Tool Adoption  49 
+CHAPTER 6: METHODOLOGY & DISCUSSIONS  50 
+    6.1 Project 1: Financial Performance Evaluation, Case Studies & Knowledge         
+Centre 53 
+    6.2 Project 2: Marriott India Portfolio Brand Intelligence Dashboard  75 
+6.3 Business Impact  79 
+6.4 Key Contribution Summary  80 
+CHAPTER 7: CONCLUSION  81 
+7.1 Summary of Project 1  82 
+7.2 Summary of Project 2  82 
+7.3 Key Learnings and Skill Development  83 
+7.4 Recommendations to Quick Clean  84 
+7.5 Closing Remarks  84 
+CHAPTER 8: LIMITATIONS & SCOPE FOR FUTURE WORK  86 
+8.1 Sample Size and Representativeness  87 
+8.2 Time-Bound Nature of the Internship  87 
+8.3 Data Source Reliability  87 
+8.4 Access Restrictions on the Knowledge Centre  87 
+8.5 Absence of Published India -Specific OPL Benchmarks  88 
+8.6 Scope for Future Work  88 
+BIBLIOGRAPHY  89 
+                                                                                                                                       
+9 
+  
+Topic Page 
+No. 
+ANNEXURE I: INTERNSHIP LOGBOOK SUMMARY  91 
+ANNEXURE II: GLOSSARY OF KEY TERMS  94 
+ANNEXURE III: STANDARD CASE STUDY TEMPLATE  96 
+ANNEXURE IV: INTERNAL STAKEHOLDERS CONSULTED  97 
+ANNEXURE V: ILLUSTRATIVE MIS TRACKER FIELDS  99 
+ANNEXURE VI: KEY FORMULAE USED IN THIS REPORT  100 
+COURSE MAPPING SHEET  101 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                       
+10 
+  
+LIST OF TABLES 
+ 
+Table 1: Key Facts Quick Clean Laundry Solutions (Quick Clean Private Limited) 
+Table 2: Key Functional Groups at Quick Clean (As Encountered During the Internship) 
+Table 3: SWOT Analysis — Quick Clean Laundry Solutions 
+Table 4: Client Segments Encountered During the Internship 
+Table 5: Project 1 vs. Project 2 Comparative Summary 
+Table 6: Capex Efficiency Metrics and Their Analytical Purpose for Quick Clean 
+Table 7: Operational Efficiency Metrics in Commercial Laundry 
+Table 8: Theoretical Framework for the Quick Clean Financial Analysis 
+Table 9: Tools and Technologies Mapped to Project Deliverables 
+Table 10: Data Collected from the Sales SPOC Team 
+Table 11: Data Collected from the Operations Team 
+Table 12: Data Collected from the Finance Team 
+Table 13: Deal Closure Stages — Representative Case Study 
+Table 14: Client Objections and Quick Clean's Responses 
+Table 15: Key Stakeholders in the Representative Case Study 
+Table 16: Pre-Implementation Problem Audit 
+Table 17: Before vs. After Comparison (Month 6) 
+Table 18: Monthly Machine Utilisation — Representative Case Study 
+Table 19: Site-Level P&L — Representative Case Study (Rs.) 
+Table 20: Strategic Learnings from the Case Study Programme 
+Table 21: Knowledge Centre Technical Architecture 
+Table 22: Knowledge Centre Application File Structure 
+Table 23: Knowledge Centre Pages and Features 
+Table 24: Marriott Brand Intelligence Dashboard Page Structure 
+Table 25: Key Skills Developed During the Internship 
+Table 26: Strategic Recommendations — Impact, Effort, and Priority 
+Table 27: Day-wise Internship Logbook Summary 
+Table 28: Glossary of Key Terms 
+Table 29: Standard Case Study Template — Section Structure 
+Table 30: Internal Stakeholders Consulted During the Internship 
+Table 31: Illustrative MIS Tracker Field Groups 
+Table 32: Key Formulae Reference  
+ 
+
+--- BA Report.docx ---
+
+1. Introduction
+The contemporary labor market is characterized by rapid structural changes driven by technological advancement, digital transformation, globalization, and evolving organizational requirements. As industries increasingly adopt data-driven decision-making, the importance of understanding workforce behavior, compensation expectations, and professional mobility has grown substantially. For organizations, recruiters, and policymakers, the ability to analyze and interpret large-scale employment data has become a strategic necessity rather than an operational luxury.
+Salary expectations represent one of the most critical dimensions of job seeker behavior. These expectations are influenced by a complex interplay of factors such as professional experience, educational attainment, skill composition, industry exposure, geographic location, and current compensation levels. Inaccurate assessment of these expectations can result in inefficient recruitment processes, misaligned compensation structures, and increased attrition rates. Consequently, there is a growing need to employ analytical techniques that can systematically evaluate these factors and uncover meaningful patterns within employment data.
+Business Analytics provides a structured framework for extracting insights from large and complex datasets. Through the application of statistical analysis, data visualization, clustering techniques, and predictive modelling, Business Analytics enables organizations to move beyond intuition-based decision-making toward evidence-based workforce strategies. In the context of human resource analytics, such techniques facilitate a deeper understanding of labor market dynamics, candidate segmentation, and compensation determinants.
+This report presents an extensive Business Analytics study based on a large-scale Job Seekers dataset containing 913,384 observations. The dataset encompasses a wide range of attributes related to job seekers, including expected salary, current salary, years of work experience, highest level of education, area of specialization, key skills, industry affiliation, city of residence, and preferred job location. The breadth and depth of this dataset provide a robust foundation for analyzing employment trends across multiple dimensions.
+The analysis is structured around three core analytical components. First, Exploratory Data Analysis (EDA) is conducted to examine data quality, distributions, central tendencies, outliers, and preliminary relationships among variables. EDA serves as a critical foundation for identifying patterns and informing subsequent modeling decisions. Second, Clustering Analysis is employed to segment job seekers into homogeneous groups based on shared characteristics, thereby enabling a deeper understanding of distinct candidate profiles. Third, Regression Analysis is applied to evaluate the extent to which experience, education, and skills explain variations in expected salary, and to assess the predictive strength of these variables.
+The primary objective of this study is to derive meaningful, data-driven insights that contribute to a better understanding of salary expectations and job seeker behavior. By integrating descriptive, diagnostic, and predictive analytics, the report aims to demonstrate the practical application of Business Analytics concepts in a real-world employment context. The findings of this analysis are expected to be relevant not only for academic evaluation but also for organizations seeking to improve recruitment effectiveness, compensation planning, and workforce strategy.
+
+
+2. Questions Selected
+The selection of analytical questions forms the foundation of any data-driven study, as it determines the direction, scope, and relevance of the analysis. In the context of this Business Analytics project, the questions have been carefully formulated to address both descriptive and analytical aspects of job seeker behaviour. Given the scale and richness of the dataset, the selected questions aim to capture salary dynamics, professional characteristics, and labour market trends in a structured and systematic manner.
+The first question focuses on understanding the demographic and professional composition of job seekers represented in the dataset. This includes examining variables such as work experience, education level, specialization, skills, industry affiliation, and geographic distribution. Analysing these characteristics provides essential context and enables a holistic understanding of the workforce profile under consideration. Without this foundational understanding, subsequent analytical findings would lack interpretative depth.
+The second question examines how salary expectations are distributed across different dimensions, including experience levels, education categories, skills, and cities. Salary expectations are not uniform and often exhibit significant variation due to individual and market-specific factors. By analyzing salary distributions and identifying patterns of skewness or dispersion, the study aims to highlight inequality in compensation expectations and assess how these expectations differ across various subgroups within the workforce.
+The third question investigates the relationship between expected salary and key explanatory variables, such as work experience, current salary, education, and skills. Understanding these relationships is essential for identifying which factors have meaningful influence on salary expectations. This question is addressed through correlation analysis and forms the basis for subsequent predictive modelling.
+The fourth question explores whether job seekers can be meaningfully segmented into distinct groups based on their professional and compensation-related attributes. Clustering analysis is employed to determine whether natural groupings exist within the data and to identify common characteristics within each segment. This segmentation is particularly useful for recruiters and organizations seeking to tailor hiring strategies to different candidate profiles.
+The fifth question evaluates the predictive capability of experience, education, and skills with respect to expected salary. Using regression analysis, the study assesses the extent to which these variables explain variation in salary expectations and quantifies their individual contributions. This question is central to understanding the limitations of traditional predictors and the need for more nuanced modeling approaches.
+Finally, the study examines behavioral patterns related to job mobility and location preference, particularly the relationship between current city and preferred job location. This question provides insight into workforce mobility and geographic flexibility, which are critical considerations in modern labor markets.
+Collectively, these questions ensure that the analysis remains comprehensive, logically structured, and aligned with the objectives of Business Analytics. They enable the integration of descriptive insights with advanced analytical techniques, ultimately supporting informed conclusions and actionable recommendations.
+
+3. Problem Statement
+The modern labor market is characterized by increasing complexity, driven by rapid technological change, evolving skill requirements, and heightened workforce mobility. Organizations today operate in an environment where competition for talent is intense, and effective recruitment and compensation strategies are critical for organizational performance. Despite the availability of large volumes of employment-related data, many organizations struggle to translate this data into meaningful insights that can support strategic decision-making.
+One of the most significant challenges faced by employers and recruiters is accurately understanding and managing salary expectations of job seekers. Salary expectations are influenced by multiple interdependent factors, including work experience, educational background, skill composition, industry exposure, geographic location, and current compensation levels. However, traditional approaches to salary benchmarking often rely on limited datasets, broad averages, or subjective judgment, which may fail to capture the nuanced relationships present in large and diverse labor markets.
+From a job seeker perspective, misalignment between expected salary and market realities can lead to prolonged job search durations, dissatisfaction, and reduced employment outcomes. From an organizational perspective, inaccurate assessment of salary expectations can result in inefficient hiring processes, increased recruitment costs, and higher attrition rates. These challenges highlight the need for a systematic, data-driven approach to analyzing job seeker profiles and compensation expectations.
+The primary problem addressed in this study is the lack of empirical understanding of the key determinants of expected salary and the absence of effective segmentation of job seekers based on observable characteristics. While variables such as experience, education, and skills are commonly assumed to be strong predictors of salary expectations, their actual explanatory and predictive power remain unclear when analyzed at scale. Furthermore, it is not evident whether job seekers naturally form distinct groups based on these attributes or whether salary expectations are shaped by more complex and unobserved factors.
+Therefore, this study seeks to address the following core problem:
+How can Business Analytics techniques be applied to a large-scale job seeker dataset to identify the factors influencing expected salary, segment job seekers into meaningful clusters, and evaluate the predictive effectiveness of experience, education, and skills?
+By addressing this problem through Exploratory Data Analysis, clustering, and regression modeling, the study aims to bridge the gap between raw employment data and actionable workforce insights. The outcomes of this analysis are expected to support more informed recruitment strategies, improved compensation planning, and a deeper understanding of labor market behavior in a data-driven context.
+
+
+
+
+
+4. Exploratory Data Analysis (EDA): Objective & Dataset Description
+4.1 Objective of Exploratory Data Analysis
+Exploratory Data Analysis (EDA) constitutes a critical initial phase in any data-driven study, particularly when working with large and complex datasets. The primary objective of EDA is to develop an in-depth understanding of the underlying data structure before applying advanced analytical and predictive techniques. In the context of this study, EDA serves as a foundational step to ensure data reliability, uncover hidden patterns, and inform subsequent clustering and regression analyses.
+One of the key objectives of EDA is to assess data quality. Large real-world datasets often contain missing values, inconsistencies, outliers, and formatting issues that can significantly distort analytical results if left unaddressed. Through EDA, the dataset is systematically examined to identify the extent of missing data, validate variable formats, and evaluate the consistency of observations across different attributes. This process ensures that the data used for analysis is both accurate and meaningful.
+Another important objective of EDA is to understand the distribution of key variables, particularly those related to salary and experience. Salary data in labor market studies is often characterized by skewness and extreme values, reflecting inequality and heterogeneity across job roles and experience levels. By analyzing measures of central tendency, dispersion, and distribution shape, EDA enables the identification of such characteristics and informs decisions regarding data transformation and modeling techniques.
+EDA also aims to explore relationships among variables. Preliminary correlation analysis provides insight into which factors are potentially associated with expected salary and which variables may have limited explanatory power. These insights are essential for hypothesis formulation and for selecting appropriate variables for clustering and regression models.
+Finally, EDA supports the identification of outliers and anomalous observations. In the context of job seeker data, unusually high salary expectations may represent senior professionals, niche roles, or aspirational reporting. Rather than indiscriminately removing these observations, EDA helps determine how they should be treated to preserve valuable information while maintaining analytical robustness.
+Overall, the objective of EDA in this study is to transform raw job seeker data into a structured, interpretable, and analytically sound foundation that supports deeper investigation through clustering and regression analysis.
+4.2 Dataset Description
+The dataset used in this study comprises 913,384 individual job seeker records, making it a large-scale and highly representative sample of the employment market. The dataset contains 18 original variables, capturing a wide range of demographic, professional, and compensation-related attributes. Such scale and diversity enable comprehensive analysis of labor market trends across multiple dimensions.
+Key variables included in the dataset are:
+Expected Salary: The compensation level anticipated by the job seeker.
+Current Salary: The individual’s existing compensation, where available.
+Work Experience (Years): Total professional experience expressed in years.
+Highest Education Level: The highest academic qualification attained by the job seeker.
+Area of Specialization: Domain or functional specialization.
+Key Skills: Technical and functional skills reported by the individual.
+Industry: Industry sector in which the job seeker is employed or seeking employment.
+City: Current city of residence.
+
+--- Group 8.docx ---
+
+
+
+
+
+
+
+
+
+
+End Term Project  –  Strategic Management
+
+Table of Contents
+
+1.  Introduction
+The global beverage industry is undergoing a major transformation as consumers increasingly prioritize health, sustainability, and functional nutrition. Traditional caffeinated beverages such as coffee and energy drinks are widely consumed for productivity and alertness; however, excessive caffeine consumption is associated with issues such as acidity, sleep disturbances, anxiety, and metabolic stress.
+This report presents a field-based strategic analysis of EVERA, a startup focused on developing a caffeine-free coffee alternative made from upcycled date seeds and chicory roots. Primary insights were gathered through an interview with the founder, along with supporting data from the startup's business presentation and market research.
+EVERA aims to create a health-focused, sustainable beverage solution by transforming discarded date seeds into a functional coffee substitute. The venture integrates wellness trends, sustainability practices, and beverage innovation to address growing consumer demand.
+Frameworks Applied
+Porter's Five Forces
+Resource-Based View (RBV)
+VRIO Framework
+Porter's Generic Strategy
+
+2.  Startup Background and Opportunity Identification
+The idea for EVERA emerged from the founder's personal observations during his MBA program. He noticed that students and professionals increasingly rely on coffee to maintain productivity, often consuming multiple cups per day, while also experiencing negative side effects.
+Pain Points Observed
+Acidity
+Sleep disturbances
+Anxiety
+Digestive issues
+
+During research into sustainable food systems, the founder discovered that date seeds are commonly discarded as waste in food processing operations, despite having roasting properties capable of producing a coffee-like aroma. This insight led to the development of EVERA.
+Core Idea Pillars
+Creating a healthy caffeine-free coffee alternative
+Upcycling food waste into a valuable beverage product
+
+3.  Market Opportunity and Industry Trends
+The beverage market is evolving rapidly as consumers shift toward functional and wellness-oriented products. India's coffee powder market is expected to reach approximately $1.91 billion with a CAGR of 7.8% by 2030.
+Rising Caffeine Dependency
+74% of surveyed respondents consume coffee daily
+62% want to reduce caffeine intake
+82% believe there are no good caffeine-free alternatives available
+
+Growing Health Concerns
+89.8 million diabetics in India
+235 million pre-diabetics
+Projected 156.7 million diabetes cases by 2050
+
+Sustainability Awareness
+Consumers are becoming more environmentally conscious and prefer products that reduce food waste, use sustainable ingredients, and promote responsible consumption. EVERA's use of upcycled date seeds directly addresses this concern.
+
+--- Piramal Enterprises Ltd.docx ---
+
+Piramal Enterprises Ltd. – Investor Pitch Deck
+
+Slide 1: Title Slide
+Title: Investor Pitch Deck – Piramal Enterprises Ltd.
+Subtitle: Business Strategy, Market Positioning, and Financial Analysis
+Prepared by: Raunak Singh
+Date: July 2025
+
+Slide 2: Business & Revenue Model
+Business Model:
+Piramal Enterprises Ltd. (PEL) operates as a diversified conglomerate with interests in Financial Services and Pharma.
+Financial Services:
+Core Focus: Wholesale & Retail Lending, Housing Finance, and Alternative Investment Funds.
+Revenue Model: Earns interest from loans, fees from services, and returns from investments.
+Monetization: Lending spreads, asset management fees, and investment income.
+Pharma (via demerged entity):
+Contract Development & Manufacturing (CDMO) and Complex Generics.
+Monetization: B2B deals, long-term manufacturing contracts, and product sales.
+Value Creation:
+Combining risk-managed lending with long-term value investments.
+Emphasis on digital transformation and customer-centric services.
+
+Slide 3: Market Strategy & Target Customers
+Target Segments:
+Retail Lending: Middle-income and self-employed customers in Tier 1–3 cities.
+Wholesale Lending: Mid-sized developers, corporates, and structured finance clients.
+Pharma: Global pharmaceutical companies seeking CDMO services.
+Positioning:
+Positioned as a tech-enabled, diversified NBFC with strong governance.
+Pharma arm positioned as a global B2B service leader in complex generics.
+Go-to-Market Strategy:
+Branch expansion + digital channels in lending.
+Strategic acquisitions (Dewan Housing) to strengthen distribution.
+Pharma growth via R&D, geographic expansion, and backward integration.
+Competitive Insights:
+Competes with Bajaj Finance, L&T Finance, and global CDMO players.
+Differentiated by its conservative leverage model and focus on innovation.
+
+Slide 4: Revenue Growth Trend (FY20–FY24)
+Insight: Revenue demonstrates consistent recovery post-pandemic with CAGR of ~9.5%.
+
+Slide 5: Profitability Ratios
+Insight: Gradual margin expansion reflects improved cost controls and operating leverage.
+
+
+
+
+
+Slide 6: Liquidity & Solvency Ratios
+Insight: Enhanced liquidity profile and declining debt ratio indicate strong financial health.
