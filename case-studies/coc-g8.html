@@ -74,6 +74,13 @@
     </div>
 
     <div class="detail-block reveal">
+      <span class="section-eyebrow">Cost of Capital Comparison</span>
+      <div style="position: relative; height:400px; width:100%; margin-top:20px; background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.05); border-radius: 8px; padding: 20px;">
+        <canvas id="cocChart"></canvas>
+      </div>
+    </div>
+
+    <div class="detail-block reveal">
       <span class="section-eyebrow">Tools &amp; Frameworks</span>
       <div class="case-tools">
         <span>CAPM</span><span>DGM</span><span>WACC</span><span>Financial Modeling</span>
@@ -103,6 +110,56 @@
   </div>
 </div>
 
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
 <script src="../assets/js/main.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const ctx = document.getElementById('cocChart');
+    if (ctx) {
+      new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels: ['Solar Industries', 'Deepak Nitrite', 'Pidilite Industries'],
+          datasets: [
+            {
+              label: 'Blended Cost of Equity (Ke) %',
+              data: [12.81, 11.83, 11.92],
+              backgroundColor: 'rgba(255, 184, 108, 0.8)',
+              borderColor: 'rgba(255, 184, 108, 1)',
+              borderWidth: 1
+            },
+            {
+              label: 'After-Tax Cost of Debt (Kd) %',
+              data: [4.67, 3.66, 9.32],
+              backgroundColor: 'rgba(139, 233, 253, 0.8)',
+              borderColor: 'rgba(139, 233, 253, 1)',
+              borderWidth: 1
+            }
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          scales: {
+            y: {
+              beginAtZero: true,
+              grid: { color: 'rgba(255,255,255,0.05)' },
+              ticks: { color: '#a0a0a0' }
+            },
+            x: {
+              grid: { display: false },
+              ticks: { color: '#a0a0a0' }
+            }
+          },
+          plugins: {
+            legend: {
+              labels: { color: '#e0e0e0', font: { family: 'Inter' } }
+            }
+          }
+        }
+      });
+    }
+  });
+</script>
 </body>
 </html>
